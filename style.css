@@ -1,0 +1,23 @@
+
+  
+    p {
+        font-style: italic;
+    }
+    div, p, span, ol, ul{ font-size: 14pt;}
+    
+    
+    span,h2 {
+        background-color: wheat;
+        font-weight: bold;
+        font-style: italic;
+        width: fit-content;
+    }
+
+    h1 {
+        background-color: rgb(245, 179, 179);
+        width: fit-content;
+    }
+
+    label, input {
+        font-weight: bold;
+    }
